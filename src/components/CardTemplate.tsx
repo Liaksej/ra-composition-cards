@@ -1,12 +1,4 @@
-import {
-  Box,
-  Button,
-  Card,
-  CardActions,
-  CardContent,
-  CardMedia,
-  Typography,
-} from "@mui/material";
+import { Box, Button, Card, CardActions } from "@mui/material";
 import { ReactNode } from "react";
 
 interface CardTemplateProps {
